@@ -11,6 +11,6 @@ end
 
 end
 
-class Person 
-   
-end 
+class Person
+
+end
