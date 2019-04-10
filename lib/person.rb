@@ -1,16 +1,10 @@
 
-class Dog
-#method bark
-  def bark
-    puts "Woof!"
-  end
-#method sitting
-def sit
-  puts "The Dog is sitting"
+
+#definition of class person
+class person
+#definition of method talk 
+def talk
+  puts "Hello World!"
+  
 end
-
-end
-
-class Person
-
 end
