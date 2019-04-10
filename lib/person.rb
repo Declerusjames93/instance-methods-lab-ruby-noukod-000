@@ -7,4 +7,12 @@ def talk
   puts "Hello World!"
 
 end
+
+#definition of method walk
+
+def walk
+
+  puts "The Person is walking"
+  
+end
 end
