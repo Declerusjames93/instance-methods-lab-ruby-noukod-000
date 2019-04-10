@@ -1,4 +1,4 @@
- #Defining class dog 
+ #Defining class dog
 class Dog
 #method bark
   def bark
@@ -10,6 +10,3 @@ def sit
 end
 
 end
-
-
-
